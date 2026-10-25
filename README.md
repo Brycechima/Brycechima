@@ -20,7 +20,7 @@ I specialize in **containerized data validation pipelines**, **spatial AI evalua
 
 ---
 
-### 📬 Connect with Me
+### 📬 Connect & Portfolios
 - **Email:** [brycechima@gmail.com](mailto:brycechima@gmail.com)
-- **Portfolio:** [brycechima3d.artstation.com](https://brycechima3d.artstation.com)
+- **Spatial Data & 3D Modeling Portfolio:** [brycechima3d.artstation.com](https://brycechima3d.artstation.com) *(Asset & geometry pipelines supporting Spatial AI and synthetic data generation)*
 - **Location:** Remote / Nigeria
